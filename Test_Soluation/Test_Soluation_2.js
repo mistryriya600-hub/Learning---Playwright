@@ -1,4 +1,3 @@
-// Sample test results array
 let testResults = ["pass", "fail", "pass", "skip", "pass", "fail", "pass"];
 
 let passCount = 0;

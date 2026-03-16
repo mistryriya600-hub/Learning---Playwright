@@ -1,4 +1,3 @@
-// Change this value to test different status codes
 let statusCode = 404;
 
 switch (statusCode) {
